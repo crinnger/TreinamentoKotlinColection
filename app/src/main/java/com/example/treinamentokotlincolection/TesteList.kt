@@ -18,6 +18,6 @@ fun main(){
     funcionarios.groupBy { it.setor }
         .forEach { println(it) }
 
-    funcionarios.sor
+
 }
 
